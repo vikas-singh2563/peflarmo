@@ -1,0 +1,6 @@
+{
+  "name": "Peflarmo - Find Your Perfect Stay",
+  "description": "Discover and book verified PGs, Flats, Rooms, and Hostels in Delhi and top Indian cities with Peflarmo. Seamless accommodation search, transparent pricing, and instant booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
